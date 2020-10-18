@@ -791,7 +791,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.6);
 }
 .cid-sdBWsfma5W .navbar.opened {
   transition: all 0.3s;
