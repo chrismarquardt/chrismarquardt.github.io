@@ -51,7 +51,7 @@
     "uniqCompNum": 45,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": false,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
