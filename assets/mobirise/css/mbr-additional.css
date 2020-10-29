@@ -1104,9 +1104,9 @@ a {
   }
 }
 .cid-seOEATGGg6 {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #fafafa;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-color: #517484;
 }
 .cid-seOEATGGg6 h4 {
   display: flex;
@@ -1120,7 +1120,7 @@ a {
   display: flex;
 }
 .cid-seOEATGGg6 .icon {
-  background: #517484;
+  background: #232323;
   min-width: 33px;
   min-height: 33px;
   border-radius: 100%;
@@ -1139,7 +1139,7 @@ a {
   padding: 2rem;
 }
 .cid-seOEATGGg6 .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-seOEATGGg6 p {
@@ -1173,7 +1173,7 @@ a {
 }
 .cid-seOEATGGg6 .card .card-header a.panel-title {
   transition: all .3s;
-  background-color: #ffffff;
+  background-color: #fafafa;
   margin-bottom: 0;
   font-style: normal;
   font-weight: 500;
@@ -1195,7 +1195,7 @@ a {
   margin-bottom: 0;
 }
 .cid-seOEATGGg6 .card .panel-body {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-seOEATGGg6 .media-container-row .accordion-section {
   display: flex;
@@ -1218,7 +1218,7 @@ a {
 }
 .cid-seOEATGGg6 .header-text,
 .cid-seOEATGGg6 .sign {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-seOCSJ8o9S {
   padding-top: 105px;
@@ -1390,33 +1390,10 @@ a {
     padding: 2rem;
   }
 }
-.cid-sdG0rf0QYU {
-  padding-top: 10rem;
-  padding-bottom: 0rem;
-  background-color: #dddddd;
-}
-#custom-html-y {
-  /* Type valid CSS here */
-}
-#custom-html-y div {
-  background: #ddd;
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-y #hiddeninstructions p {
-  font-size: 1em;
-  margin: auto;
-  width: 70%;
-}
-#custom-html-y p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-sdC0cHHRNP {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-sdC0cHHRNP .carousel-item {
   justify-content: center;
