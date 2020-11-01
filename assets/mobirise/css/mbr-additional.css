@@ -1035,16 +1035,40 @@ a {
     left: -1rem;
   }
 }
-.cid-sdBmODHBNw {
-  background-image: url("../../../assets/images/mbr-1920x1152.png");
+.cid-sf6ecKYTdo {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/obsnacademy-header-bg-2000x2000.jpg");
 }
-.cid-sdBmODHBNw .mbr-section-title {
-  color: #fafafa;
+@media (max-width: 767px) {
+  .cid-sf6ecKYTdo .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sf6ecKYTdo .mbr-figure {
+    margin-bottom: 1.5rem;
+  }
 }
-.cid-sdBmODHBNw .mbr-text,
-.cid-sdBmODHBNw .mbr-section-btn {
+.cid-sf6ecKYTdo .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-sf6ecKYTdo .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-sf6ecKYTdo .media-content,
+.cid-sf6ecKYTdo .mbr-figure {
+  align-self: center;
+}
+.cid-sf6ecKYTdo .mbr-figure iframe {
+  width: 100%;
+}
+.cid-sf6ecKYTdo .mbr-section-title {
   color: #ffffff;
-  text-align: left;
+}
+.cid-sf6ecKYTdo .mbr-text,
+.cid-sf6ecKYTdo .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-sdC8BAfYZ1 {
   padding-top: 7rem;
