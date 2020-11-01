@@ -1559,43 +1559,6 @@ a {
     right: 2rem;
   }
 }
-.cid-seORmK2Fbt {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-seORmK2Fbt .row {
-  flex-direction: row-reverse;
-}
-.cid-seORmK2Fbt .video-wrapper iframe {
-  width: 100%;
-}
-.cid-seORmK2Fbt .mbr-section-title,
-.cid-seORmK2Fbt .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-seORmK2Fbt .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-seORkWwurQ {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-seORkWwurQ .video-wrapper iframe {
-  width: 100%;
-}
-.cid-seORkWwurQ .mbr-section-title,
-.cid-seORkWwurQ .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-seORkWwurQ .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-sdC0cHHRNP {
   padding-top: 6rem;
   padding-bottom: 6rem;
