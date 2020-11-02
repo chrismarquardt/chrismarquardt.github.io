@@ -1035,39 +1035,87 @@ a {
     left: -1rem;
   }
 }
-.cid-sf6ecKYTdo {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/obsnacademy-header-bg-2000x2000.jpg");
+.cid-sfbGhXIHfC {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-sfbGhXIHfC .mbr-section-title,
+.cid-sfbGhXIHfC .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-sfbGhXIHfC .mbr-section-text {
+  color: #232323;
+}
+.cid-sfbGhXIHfC .mbr-text,
+.cid-sfbGhXIHfC .typed-text,
+.cid-sfbGhXIHfC .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-sfbGhXIHfC .btn {
+  margin-left: 4px !important;
+}
+.cid-sfbGhXIHfC .animated-element {
+  color: #ffb963;
+}
+.cid-sfbGhXIHfC .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffb963;
+}
+.cid-sfbGhXIHfC .mbr-figure {
+  border-radius: .25rem;
+  overflow: hidden;
 }
 @media (max-width: 767px) {
-  .cid-sf6ecKYTdo .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sf6ecKYTdo .mbr-figure {
-    margin-bottom: 1.5rem;
-  }
-}
-.cid-sf6ecKYTdo .row {
-  align-items: center;
-}
-@media (min-width: 992px) {
-  .cid-sf6ecKYTdo .text-wrapper {
-    padding: 0 2rem;
+  .cid-sfbGhXIHfC .typed-text,
+  .cid-sfbGhXIHfC .mbr-section-subtitle,
+  .cid-sfbGhXIHfC .mbr-section-text,
+  .cid-sfbGhXIHfC .mbr-section-btn {
+    text-align: center !important;
   }
 }
-.cid-sf6ecKYTdo .media-content,
-.cid-sf6ecKYTdo .mbr-figure {
-  align-self: center;
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-.cid-sf6ecKYTdo .mbr-figure iframe {
-  width: 100%;
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-.cid-sf6ecKYTdo .mbr-section-title {
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-sfbGhXIHfC .mbr-section-subtitle,
+.cid-sfbGhXIHfC .typed-text {
   color: #ffffff;
 }
-.cid-sf6ecKYTdo .mbr-text,
-.cid-sf6ecKYTdo .mbr-section-btn {
+.cid-sfbGhXIHfC .mbr-section-text,
+.cid-sfbGhXIHfC .mbr-section-btn {
   color: #ffffff;
 }
 .cid-sdC8BAfYZ1 {
